@@ -68,25 +68,29 @@ print(cl)
 ```
 
 ## Output:
+<img width="715" height="214" alt="image" src="https://github.com/user-attachments/assets/3c13518d-d529-48b7-81f9-f02ccc49ba8a" />
+
 data.head:
 
-![Screenshot 2024-10-24 091856](https://github.com/user-attachments/assets/3a8b6c97-5815-4e17-b3ea-c60addb3b8f6)
-
-data.info:
-
-![Screenshot 2024-10-24 091904](https://github.com/user-attachments/assets/19b05105-353a-487d-8da9-c688a558e59f)
+<img width="704" height="316" alt="image" src="https://github.com/user-attachments/assets/de8de3d5-5c0c-4695-850d-a3151494c370" />
 
 data.isnull:
 
-![Screenshot 2024-10-24 091911](https://github.com/user-attachments/assets/72789478-43b0-4d31-9f08-d0f7d1c3dab6)
+<img width="721" height="206" alt="image" src="https://github.com/user-attachments/assets/bfb32ec2-ca78-46ca-bc34-779f4d207a54" />
+
+
+
+<img width="717" height="296" alt="image" src="https://github.com/user-attachments/assets/bb7090ff-4121-4818-8255-e85c670754c0" />
+
+
 
 Accuracy Score:
 
-![image](https://github.com/user-attachments/assets/e63a3779-3db2-4d4e-a5ea-9471626002b1)
+<img width="732" height="196" alt="image" src="https://github.com/user-attachments/assets/e9e6a2c2-cb2b-4ba7-a393-583277c3a1c0" />
 
 Confusion matric :
 
-![image](https://github.com/user-attachments/assets/b9ee6f31-71f4-4481-bbe3-a5cd566bf394)
+<img width="722" height="449" alt="image" src="https://github.com/user-attachments/assets/e7b7830d-649c-4e59-8658-c27d03c93892" />
 
 
 ## Result:
