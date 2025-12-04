@@ -34,8 +34,6 @@ result
 
 import pandas as pd
 data=pd.read_csv('spam.csv',encoding='Windows-1252')
-print("Name:  Thaksha Rishi")
-print("Reg No: 212223100058")
 data.head()
 data.isnull().sum()
 data.info()
